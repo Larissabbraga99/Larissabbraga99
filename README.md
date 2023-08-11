@@ -6,7 +6,7 @@
 - 🌱 Estou aprendendo Java Script e React.Js
 - 👯Em busca de conhecer pessoas na área de Ti para troca de experiências e conhecimentos      
 - 😄 Pronomes: Ela,dela
-- ⚡Fun fact:Resolvi fazer transição de carreira após viver em uma cidade com grande polo de tecnologia durante meu intercâmbiode aupair(Seattle-Wa) ,após conversar com pessoas da area percebi que seria algo desafiador e estimulante para mim . 
+- ⚡Fun fact:Resolvi fazer transição de carreira após viver em uma cidade com grande polo de tecnologia durante meu intercâmbiode aupair(Seattle-Wa) ,após conversar com pessoas da area percebi que seria algo desafiador e estimulante para mim 
 
 <div style="display: inline_block"><br> <h4>Stacks</h4>
   <img align="center" alt="larissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,11 +15,11 @@
   <img align="center" alt="larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-  <hr>
-  <h4>Redes sociais </h4>
- </hr>
-<div> 
+  
 
+
+<div> 
+  <h4>Redes sociais </h4>
   <a href="https://instagram.com/eularissabrags?igshid=MjEwN2IyYWYwYw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:larissabbraga99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
